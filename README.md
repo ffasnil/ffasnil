@@ -8,6 +8,7 @@ I've been learning to improve my current programming languages and exploring add
 
 * 🌍  I'm based in Bangkok, Thailand
 * ⚡  Currently improving my exciting programming skills, creating more projects, and planning to learn Golang
+* 🚀  I'm currently working on API Project ( release soon! )
 
 ### Skills
 
