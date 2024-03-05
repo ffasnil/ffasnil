@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
+I've been learning to improve my current programming languages and exploring additional skills to break the limit of the typical capabilities of a data analyst
+
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning to improve my current programming languages and exploring additional skills to break the limit of the typical capabilities of a data analyst
+* ⚡  Currently improving my exciting programming skills, creating more projects, and planning to learn Golang
 
 ### Skills
 
