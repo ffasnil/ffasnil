@@ -7,7 +7,7 @@ Data Analyst
 I've been learning to improve my current programming languages and exploring additional skills to break the limit of the typical capabilities of a data analyst
 
 * 🌍  I'm based in Bangkok, Thailand
-* ⚡  Currently improving my exciting programming skills, creating more projects, and planning to learn Golang
+* ⚡  Currently improving my exciting programming skills and creating more projects
 * 🚀  I'm currently working on API Project ( release soon! )
 
 ### Skills
