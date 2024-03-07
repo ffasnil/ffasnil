@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome To My GitHub Profile :smile:
 ------------
-:point_up: Feel free to explore my projects by navigating to the REPOSITORY on the top bar :point_up:
+:point_up: Feel free to explore my projects by navigating to the REPOSITORIES on the top bar :point_up:
 <br>
 <br>
 
