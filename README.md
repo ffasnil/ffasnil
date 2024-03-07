@@ -1,14 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supisara N.
 ===========================================================================================================================
 
-Data Analyst
+Welcome To My GitHub Profile :smile:
 ------------
+:point_up: Feel free to explore my projects by navigating to the REPOSITORY on the top bar :point_up:
+<br>
+<br>
 
-I've been learning to improve my current programming languages and exploring additional skills to break the limit of the typical capabilities of a data analyst
+I've been learning to improve my current programming languages and exploring additional skills to break the limit of the typical capabilities of a data analyst.
+<br>
 
 * 🌍  I'm based in Bangkok, Thailand
-* ⚡  Currently improving my exciting programming skills and creating more projects
-* 🚀  I'm currently working on API Project ( release soon! )
+* 🚀  I'm currently working on API Project ( release soon!! )
 
 ### Skills
 
