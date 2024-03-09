@@ -11,7 +11,6 @@ I've been learning to improve my current programming languages and exploring add
 <br>
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🚀  I'm currently working on API Project ( release soon!! )
 
 ### Skills
 
